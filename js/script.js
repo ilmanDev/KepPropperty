@@ -89,5 +89,6 @@ function renderProperties(list){
 renderProperties(properties);
 document.getElementById('waButton').addEventListener('click', function(e){
   e.preventDefault();
-  window.open('https://wa.me/6281234567890?text=Halo,%20saya%20ingin%20tanya%20tentang%20properti', '_blank');
+  window.open('https://wa.me/6287872921421?text=Halo,%20saya%20ingin%20tanya%20tentang%20properti', '_blank');
 });
+
